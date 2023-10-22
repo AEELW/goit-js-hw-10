@@ -2,7 +2,7 @@
   "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/AEELW/goit-js-hw-10",
+  "homepage": "https://aeelw.github.io/goit-js-hw-10/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
@@ -20,7 +20,8 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "lodash.debounce": "^4.0.8",
-    "modern-normalize": "^1.1.0"
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.6"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
